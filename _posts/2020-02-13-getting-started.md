@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: Health Care Project
 featured-img: sleek
 mathjax: true
 ---
